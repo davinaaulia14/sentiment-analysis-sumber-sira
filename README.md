@@ -35,4 +35,5 @@ Notebook ini secara default menggunakan Google Drive untuk menyimpan dataset, se
 ```python
 from google.colab import drive
 drive.mount('/content/drive')
-Jika menjalankan dengan Google Drive, pastikan dataset diupload ke Drive Anda sesuai path yang digunakan di notebook. Namun, apabila tidak ingin menggunakan Google Drive, Anda juga dapat langsung menggunakan dataset yang sudah diupload pada repository ini.
+
+## Jika menjalankan dengan Google Drive, pastikan dataset diupload ke Drive Anda sesuai path yang digunakan di notebook. Namun, apabila tidak ingin menggunakan Google Drive, Anda juga dapat langsung menggunakan dataset yang sudah diupload pada repository ini.
