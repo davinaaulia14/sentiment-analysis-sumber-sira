@@ -1,0 +1,55 @@
+Model,Vectorizer,Average,Matrix,Value
+SVM,TF-IDF,Macro Avg,Precision,0.67
+SVM,TF-IDF,Macro Avg,Recall,0.61
+SVM,TF-IDF,Macro Avg,F1-score,0.63
+SVM (SMOTE),TF-IDF,Macro Avg,Precision,0.67
+SVM (SMOTE),TF-IDF,Macro Avg,Recall,0.65
+SVM (SMOTE),TF-IDF,Macro Avg,F1-score,0.66
+SVM,FAST TEXT,Macro Avg,Precision,0.65
+SVM,FAST TEXT,Macro Avg,Recall,0.59
+SVM,FAST TEXT,Macro Avg,F1-score,0.61
+SVM,TF-IDF,Weighted Avg,Precision,0.81
+SVM,TF-IDF,Weighted Avg,Recall,0.82
+SVM,TF-IDF,Weighted Avg,F1-score,0.81
+SVM (SMOTE),TF-IDF,Weighted Avg,Precision,0.81
+SVM (SMOTE),TF-IDF,Weighted Avg,Recall,0.81
+SVM (SMOTE),TF-IDF,Weighted Avg,F1-score,0.81
+SVM,FAST TEXT,Weighted Avg,Precision,0.81
+SVM,FAST TEXT,Weighted Avg,Recall,0.83
+SVM,FAST TEXT,Weighted Avg,F1-score,0.81
+KNN,TF-IDF,Macro Avg,Precision,0.56
+KNN,TF-IDF,Macro Avg,Recall,0.49
+KNN,TF-IDF,Macro Avg,F1-score,0.5
+KNN (SMOTE),TF-IDF,Macro Avg,Precision,0.49
+KNN (SMOTE),TF-IDF,Macro Avg,Recall,0.65
+KNN (SMOTE),TF-IDF,Macro Avg,F1-score,0.46
+KNN,FAST TEXT,Macro Avg,Precision,0.66
+KNN,FAST TEXT,Macro Avg,Recall,0.58
+KNN,FAST TEXT,Macro Avg,F1-score,0.61
+KNN,TF-IDF,Weighted Avg,Precision,0.74
+KNN,TF-IDF,Weighted Avg,Recall,0.75
+KNN,TF-IDF,Weighted Avg,F1-score,0.74
+KNN (SMOTE),TF-IDF,Weighted Avg,Precision,0.77
+KNN (SMOTE),TF-IDF,Weighted Avg,Recall,0.5
+KNN (SMOTE),TF-IDF,Weighted Avg,F1-score,0.53
+KNN,FAST TEXT,Weighted Avg,Precision,0.81
+KNN,FAST TEXT,Weighted Avg,Recall,0.83
+KNN,FAST TEXT,Weighted Avg,F1-score,0.82
+NBC,TF-IDF,Macro Avg,Precision,0.59
+NBC,TF-IDF,Macro Avg,Recall,0.34
+NBC,TF-IDF,Macro Avg,F1-score,0.3
+NBC (SMOTE),TF-IDF,Macro Avg,Precision,0.59
+NBC (SMOTE),TF-IDF,Macro Avg,Recall,0.62
+NBC (SMOTE),TF-IDF,Macro Avg,F1-score,0.59
+NBC,FAST TEXT,Macro Avg,Precision,0.69
+NBC,FAST TEXT,Macro Avg,Recall,0.71
+NBC,FAST TEXT,Macro Avg,F1-score,0.7
+NBC,TF-IDF,Weighted Avg,Precision,0.75
+NBC,TF-IDF,Weighted Avg,Recall,0.77
+NBC,TF-IDF,Weighted Avg,F1-score,0.67
+NBC (SMOTE),TF-IDF,Weighted Avg,Precision,0.8
+NBC (SMOTE),TF-IDF,Weighted Avg,Recall,0.77
+NBC (SMOTE),TF-IDF,Weighted Avg,F1-score,0.78
+NBC,FAST TEXT,Weighted Avg,Precision,0.84
+NBC,FAST TEXT,Weighted Avg,Recall,0.84
+NBC,FAST TEXT,Weighted Avg,F1-score,0.84
