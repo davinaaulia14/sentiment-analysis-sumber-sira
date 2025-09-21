@@ -30,6 +30,9 @@ Lihat hasil visualisasi interaktif melalui link berikut:
 ---
 
 ## 🚀 Cara Menjalankan Notebook
-1. Clone repository ini:
-   ```bash
-   git clone https://github.com/username/nama-repo.git
+Notebook ini secara default menggunakan Google Drive untuk menyimpan dataset, sehingga terdapat perintah:
+
+```python
+from google.colab import drive
+drive.mount('/content/drive')
+Jika menjalankan dengan Google Drive, pastikan dataset diupload ke Drive Anda sesuai path yang digunakan di notebook. Namun, apabila tidak ingin menggunakan Google Drive, Anda juga dapat langsung menggunakan dataset yang sudah diupload pada repository ini.
