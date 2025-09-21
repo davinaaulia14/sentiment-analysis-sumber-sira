@@ -25,7 +25,7 @@ Selain itu, hasil analisis divisualisasikan menggunakan Looker Studio untuk memu
 
 ## 📊 Dashboard Looker Studio
 Lihat hasil visualisasi interaktif melalui link berikut:  
-👉 [Dashboard Analisis di Looker Studio]([https://lookerstudio.google.com/reporting/xxxxxxx](https://lookerstudio.google.com/reporting/1447add9-7a59-4a3b-a3d9-7534bb9ce906))
+👉 [Dashboard Analisis di Looker Studio]([https://lookerstudio.google.com/reporting/1447add9-7a59-4a3b-a3d9-7534bb9ce906])
 
 ---
 
